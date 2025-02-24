@@ -64,7 +64,7 @@ export default function SearchBox({ updateInfo }) {
         <Button variant="outlined" type="submit">
           Search
         </Button>
-        {error && <Alert severity="error">Your place doesn't exists in our API</Alert>}
+        {error && <Alert severity="error">Your place doesn&apos;t exists in our API</Alert>}
       </form>
 
     </>
