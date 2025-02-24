@@ -1,0 +1,12 @@
+.InfoBox {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Set height to 100% of the viewport height for vertical centering */
+  }
+  
+  .cardContainer {
+    margin-top: 20px; /* Add some margin to separate from the heading */
+  }
